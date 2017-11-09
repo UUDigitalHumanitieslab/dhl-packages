@@ -1,0 +1,5 @@
+correct_lon,ans_lon,ans_lat,how_drunk_are_you,euclidean_distance,name,q,id,correct_lat
+0.0,1.0,1.0,yes,156899.56828024276,ad,q1,1,0.0
+1.0,3.0,3.0,yes,313705.44544723263,bert,q2,2,1.0
+0.0,3.0,3.0,no,470604.96963796,cem,q1,3,0.0
+1.0,3.0,3.0,no,313705.44544723263,cem,q2,3,1.0

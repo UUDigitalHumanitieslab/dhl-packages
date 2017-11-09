@@ -1,6 +1,10 @@
 # DHL-packages
 Packages for python. Contains handy frequently used code.
 
+## Requirements
+
+Works with: python 3
+
 ## Upload
 
 1. Create dist
